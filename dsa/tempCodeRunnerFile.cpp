@@ -1,0 +1,2 @@
+
+    cout<<"enter any numner : ";
