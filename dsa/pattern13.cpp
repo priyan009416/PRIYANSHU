@@ -13,7 +13,7 @@ int main(){
         int col = 1;
         while (col<=n)//ye column ka liye4 chalega 
         {
-            char ch = 'A'+row-1;  //ye ascii value ka hisab sa chelaga
+            char ch = 'A'+row+col-2;  //ye ascii value ka hisab sa chelaga
            cout<< ch;
            col = col+1;
         }
